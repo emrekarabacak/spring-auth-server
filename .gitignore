@@ -1,0 +1,16 @@
+*.iml
+*.class
+.idea/
+.gradle
+.project
+.settings
+.classpath
+.checkstyle
+log
+bin
+build
+test-output
+/target/
+/gradle/
+gradlew.bat
+gradlew
