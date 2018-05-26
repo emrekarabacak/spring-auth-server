@@ -1,9 +1,9 @@
-package com.veeb.constructionapp;
+package com.emre.authserver;
 
-import com.veeb.constructionapp.model.Role;
-import com.veeb.constructionapp.model.User;
-import com.veeb.constructionapp.repository.RoleRepository;
-import com.veeb.constructionapp.repository.UserRepository;
+import com.emre.authserver.model.Role;
+import com.emre.authserver.model.User;
+import com.emre.authserver.repository.UserRepository;
+import com.emre.authserver.repository.RoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;

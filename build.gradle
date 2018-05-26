@@ -37,5 +37,12 @@ dependencies {
     compile("com.h2database:h2")
     compile("org.projectlombok:lombok")
 
+    // for jaxb exceptions
+    compile("javax.xml.bind:jaxb-api:2.2.11")
+    compile("com.sun.xml.bind:jaxb-core:2.2.11")
+    compile("com.sun.xml.bind:jaxb-impl:2.2.11")
+    compile("javax.activation:activation:1.1.1")
+
+
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }

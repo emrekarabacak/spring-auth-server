@@ -1,4 +1,4 @@
-package com.veeb.constructionapp.model;
+package com.emre.authserver.model;
 
 import javax.persistence.*;
 import java.util.Set;

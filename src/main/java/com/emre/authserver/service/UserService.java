@@ -1,7 +1,7 @@
-package com.veeb.constructionapp.service;
+package com.emre.authserver.service;
 
-import com.veeb.constructionapp.model.User;
-import com.veeb.constructionapp.repository.UserRepository;
+import com.emre.authserver.model.User;
+import com.emre.authserver.repository.UserRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;

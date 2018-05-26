@@ -1,6 +1,6 @@
-package com.veeb.constructionapp.security;
+package com.emre.authserver.security;
 
-import com.veeb.constructionapp.service.UserService;
+import com.emre.authserver.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

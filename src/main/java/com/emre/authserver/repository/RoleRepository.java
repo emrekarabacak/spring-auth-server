@@ -1,6 +1,6 @@
-package com.veeb.constructionapp.repository;
+package com.emre.authserver.repository;
 
-import com.veeb.constructionapp.model.Role;
+import com.emre.authserver.model.Role;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
